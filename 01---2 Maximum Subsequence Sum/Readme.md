@@ -14,6 +14,7 @@ For each test case, output in one line the largest sum, together with the first 
 **Sample Input:**
 
 10
+
 -10 1 2 3 4 -5 -23 3 7 -21
 
 **Sample Output:**
